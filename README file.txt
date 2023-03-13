@@ -15,6 +15,7 @@ projects completed/working on and contact page.
 What will each page contain (raf idea):
 I will try to keep my first project as simple as possible 
 so it is easy to see and navigate around the site.
+
 HomePage:
 This page will have a background image related to one of my hobbies (image not decided yet 13/03/23 n1).
 On top of the background image will have a big container/div box which will contain the main content of the page.
