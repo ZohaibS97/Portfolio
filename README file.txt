@@ -40,3 +40,10 @@ if there is a background image then it will be a different background image on t
 In this page the text box container about me will be changed to contact information
 and a form application to reach out to me through the portfolio and there will be a link to open/see my CV.
 At the button I might include a link to my social media accounts.
+
+Project page:
+Same layout as contact me,
+just content will be changed each project and their image will be shown and on the left will be a text description of the text.
+Users will be able to click on the project and open each project.
+Underneath the project image there will be a link to the github repository of the project. 
+
