@@ -1,5 +1,10 @@
                         Project Documentation:
 
+Note: date and n number shows the date the decision was made or updated
+and n shows the number of the change to reference it at the end when changes made.
+For example: if n1 says image will be in the top right,
+but later on it is decided to change the image location to left then will be reported at the end n1 one has been moved to left on 01/01/23
+
 Title:
 Web Portfolio.
 
