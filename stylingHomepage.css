@@ -1,4 +1,98 @@
 body {
-    background-image: url('images/temp-back-image.jpg');
-    
-  } /* this is a temperory background image */
+  background-image: url('images/temp-back-image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+.main-content-div-box{
+  background-color: #fefefe;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
+  padding-bottom: 70px;
+  height: 50%;
+
+
+}
+.header-nav-bar{
+  background-color: #b7b7b7;
+  width: 100%;
+  height: 47px;
+  padding-top: 3px;
+  overflow: hidden;
+  position: relative;
+
+
+
+}
+a:link, a:visited {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+} /* this code has been takken from w3school.com */
+
+.nav-bar-logo-left{
+  background-color: #545454;
+  width: 201px;
+  height: 40px;
+  padding-bottom: 2px;
+  font-weight: bold;
+  color: #fefefe;
+  text-decoration: none;
+  position: relative;
+  float: left;
+  
+
+}
+.button-logo:hover {background-color: #d3cdff}
+.button-logo{
+  font-size: 18px;
+  height: 40px;
+  background-color: #dbd9d9;
+  border-radius: 10px;
+  padding: 8px;
+  width: 200px;
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+
+}
+.nav-bar-right-side-buttons{
+  background-color: #545454;
+  margin-right: 1px;
+  height: 40px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 2px;
+  font-weight: bold;
+  position: relative;
+  float: right;
+
+}
+.button-about-me:hover {background-color: #949494}
+.button-contact-me:hover {background-color: #949494}
+
+
+.button-about-me {
+  background-color: #dbd9d9;
+  border-radius: 8px;
+  padding: 5px;
+  width: 90px;
+  height: 40px;
+  cursor: pointer;
+  position: relative;
+
+}
+.button-contact-me {
+  background-color: #dbd9d9;
+  border-radius: 10px;
+  padding: 5px;
+  width: 90px;
+  height: 40px;
+  cursor: pointer;
+  position: relative;
+
+
+}
+
