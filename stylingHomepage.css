@@ -76,7 +76,7 @@ a:link, a:visited {
 
 .button-about-me {
   background-color: #dbd9d9; /*for testing and location reference, color and design needs to e changed after completing the page*/
-  border-radius: 8px;
+  border-radius: 10px;
   padding: 5px;
   width: 90px;
   height: 40px;
