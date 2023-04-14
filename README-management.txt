@@ -31,5 +31,7 @@ HomePage:
 15. I have created a my CV button under job description paragraph.
 16. I have changed to background colour of main content to #f1f1f1.
 17. All the content divs inside main container such as header title.etc background colour have been changed to #e2e2e2
+18. I have created about me and contact me page.
+    linked all pages using ancher tag on navigation buttons.
 
 
