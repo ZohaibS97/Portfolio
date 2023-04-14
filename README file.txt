@@ -47,4 +47,3 @@ Same layout as contact me,
 just content will be changed each project and their image will be shown and on the left will be a text description of the text.
 Users will be able to click on the project and open each project.
 Underneath the project image there will be a link to the github repository of the project. 
-

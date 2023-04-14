@@ -1,8 +1,12 @@
                         Project management
 In this document, each progress or changes step made on each day will be documented"
 
-13/03/23:
+UPDATES:###
 
+Homepage;
+13/03/23 n2 = Profile picture has been position right side of the description paragraph.
+
+HomePage:
 1. I have created a git repository for a portfolio website.
     Created a readme file and pushed it to my repo on github.
 2. I have created a raf document explaining about the project what each page will contain and where it will be located on the page.
@@ -20,7 +24,12 @@ In this document, each progress or changes step made on each day will be documen
 11. I have created another div box which will contain the title of the page.
     Title's font style is set to Georgia, serif.
 12. I have creater paragraph div box under title.
-    This div box contains brief description about myself.
+    This div box contains brief description about myself font style "Times New Roman", Times, serif.
     On the right side of the description paragraph I have added a profile picture of mine which it's border has been rounded using css (image used for testing purpose, needs changing when page completed)
 13. I have created my project button under description paragraph div box.
+14. I have created a div box for job description paragraph.
+15. I have created a my CV button under job description paragraph.
+16. I have changed to background colour of main content to #f1f1f1.
+17. All the content divs inside main container such as header title.etc background colour have been changed to #e2e2e2
+
 
